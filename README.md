@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/sahilkumar028/leetcode-problems/tree/master/0620-not-boring-movies) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sahilkumar028/leetcode-problems/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sahilkumar028/leetcode-problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
