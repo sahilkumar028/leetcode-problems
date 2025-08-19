@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sahilkumar028/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/sahilkumar028/leetcode-problems/tree/master/0202-happy-number) |
 | [2561-number-of-distinct-averages](https://github.com/sahilkumar028/leetcode-problems/tree/master/2561-number-of-distinct-averages) |
 ## String
 |  |
@@ -66,9 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/sahilkumar028/leetcode-problems/tree/master/0202-happy-number) |
 | [2561-number-of-distinct-averages](https://github.com/sahilkumar028/leetcode-problems/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
 | [2561-number-of-distinct-averages](https://github.com/sahilkumar028/leetcode-problems/tree/master/2561-number-of-distinct-averages) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sahilkumar028/leetcode-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
