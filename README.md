@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sahilkumar028/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sahilkumar028/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2561-number-of-distinct-averages](https://github.com/sahilkumar028/leetcode-problems/tree/master/2561-number-of-distinct-averages) |
 ## Stack
 |  |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sahilkumar028/leetcode-problems/tree/master/0202-happy-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sahilkumar028/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 <!---LeetCode Topics End-->
