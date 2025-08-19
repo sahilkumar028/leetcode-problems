@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sahilkumar028/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [2561-number-of-distinct-averages](https://github.com/sahilkumar028/leetcode-problems/tree/master/2561-number-of-distinct-averages) |
 ## Stack
 |  |
 | ------- |
@@ -57,8 +58,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sahilkumar028/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [2561-number-of-distinct-averages](https://github.com/sahilkumar028/leetcode-problems/tree/master/2561-number-of-distinct-averages) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sahilkumar028/leetcode-problems/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [2561-number-of-distinct-averages](https://github.com/sahilkumar028/leetcode-problems/tree/master/2561-number-of-distinct-averages) |
+## Sorting
+|  |
+| ------- |
+| [2561-number-of-distinct-averages](https://github.com/sahilkumar028/leetcode-problems/tree/master/2561-number-of-distinct-averages) |
 <!---LeetCode Topics End-->
