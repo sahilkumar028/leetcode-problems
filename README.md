@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sahilkumar028/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0739-daily-temperatures](https://github.com/sahilkumar028/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sahilkumar028/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2561-number-of-distinct-averages](https://github.com/sahilkumar028/leetcode-problems/tree/master/2561-number-of-distinct-averages) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sahilkumar028/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/sahilkumar028/leetcode-problems/tree/master/0202-happy-number) |
 | [2561-number-of-distinct-averages](https://github.com/sahilkumar028/leetcode-problems/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/sahilkumar028/leetcode-problems/tree/master/0202-happy-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sahilkumar028/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sahilkumar028/leetcode-problems/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sahilkumar028/leetcode-problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
