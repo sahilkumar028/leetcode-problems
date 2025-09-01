@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sahilkumar028/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/sahilkumar028/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/sahilkumar028/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [1917-maximum-average-pass-ratio](https://github.com/sahilkumar028/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sahilkumar028/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2561-number-of-distinct-averages](https://github.com/sahilkumar028/leetcode-problems/tree/master/2561-number-of-distinct-averages) |
 ## Stack
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilkumar028/leetcode-problems/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/sahilkumar028/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/sahilkumar028/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
