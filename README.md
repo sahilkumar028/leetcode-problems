@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/sahilkumar028/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sahilkumar028/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2561-number-of-distinct-averages](https://github.com/sahilkumar028/leetcode-problems/tree/master/2561-number-of-distinct-averages) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sahilkumar028/leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/sahilkumar028/leetcode-problems/tree/master/0202-happy-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sahilkumar028/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sahilkumar028/leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/sahilkumar028/leetcode-problems/tree/master/3830-find-closest-person) |
 ## Backtracking
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sahilkumar028/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sahilkumar028/leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Brainteaser
 |  |
 | ------- |
