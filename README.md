@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sahilkumar028/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/sahilkumar028/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/sahilkumar028/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/sahilkumar028/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sahilkumar028/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/sahilkumar028/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1917-maximum-average-pass-ratio](https://github.com/sahilkumar028/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilkumar028/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/sahilkumar028/leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/sahilkumar028/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/sahilkumar028/leetcode-problems/tree/master/0202-happy-number) |
 | [2561-number-of-distinct-averages](https://github.com/sahilkumar028/leetcode-problems/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sahilkumar028/leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/sahilkumar028/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
