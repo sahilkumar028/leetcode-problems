@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilkumar028/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/sahilkumar028/leetcode-problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sahilkumar028/leetcode-problems/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahilkumar028/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/sahilkumar028/leetcode-problems/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/sahilkumar028/leetcode-problems/tree/master/0202-happy-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sahilkumar028/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sahilkumar028/leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sahilkumar028/leetcode-problems/tree/master/0067-add-binary) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sahilkumar028/leetcode-problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sahilkumar028/leetcode-problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Brainteaser
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sahilkumar028/leetcode-problems/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/sahilkumar028/leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
